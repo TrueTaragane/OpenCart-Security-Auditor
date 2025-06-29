@@ -1,7 +1,7 @@
 # OpenCart Security Auditor
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/81d966d5-a8ed-4b07-a641-550f865f57ab" alt="OpenCart Security Auditor Screenshot" width="800">
+  OpenCart Security Auditor Screenshot
 </p>
 
 **OpenCart Security Auditor** — это мощный, автономный PHP-скрипт, предназначенный для проведения комплексной проверки безопасности вашего сайта на OpenCart 3.x. Он помогает быстро выявить несанкционированные изменения в файлах ядра, найти потенциально вредоносный код и проверить подозрительные файлы через API VirusTotal.
